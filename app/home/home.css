@@ -1,0 +1,11 @@
+/* Page-specific styling */
+.theme {
+    padding: 10px;
+}
+    .theme span {
+        border: 1px solid #000;
+        display: inline-block;
+        padding: 5px 20px;
+        text-align: center;
+        width: 100px;
+    }
