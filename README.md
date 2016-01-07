@@ -2,12 +2,15 @@
 This is a sample application to visualize the Office Client Theme Colors.
 
 **Colorful**
+
 ![Colorful Office theme colors](http://az738237.vo.msecnd.net/wp-content/uploads/2016/01/010716_1158_UsingOffice2.png)
 
 **Dark gray**
+
 ![Dark gray Office theme colors](http://az738237.vo.msecnd.net/wp-content/uploads/2016/01/010716_1158_UsingOffice3.png)
 
 **White**
+
 ![White Office theme colors](http://az738237.vo.msecnd.net/wp-content/uploads/2016/01/010716_1158_UsingOffice4.png)
 
 ##Try it out
